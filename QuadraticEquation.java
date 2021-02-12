@@ -25,11 +25,11 @@ public class QuadraticEquation{
 				System.out.println("Root2 is: "+root2);
 			}
 		}
-		else if(discriminant < 0){
+		else{
 			System.out.println("There are no real roots");
 		}
 		
-        
+
     }
 
 }
